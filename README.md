@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
 <body>
     <h1>Olá, seja bem vindo ao meu perfil do GitHub, é muito bom te ver por aqui! 👋🏼</h1>
     <div>
@@ -17,8 +8,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github-readme-stats.vercel.app/api?username=Lu1sGabriel&show_icons=true" />
         </picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&theme=aura"
-        alt="linguagensMaisUsadas">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&show_icons=true&theme=aura&hide_progress=true"/>
     </div>
     <div>
         <h2>Social Medias:</h2>
@@ -44,5 +34,4 @@
             alt="javascript_icon">
     </div>
 </body>
-
 </html>
