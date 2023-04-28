@@ -8,6 +8,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github-readme-stats.vercel.app/api?username=Lu1sGabriel&show_icons=true" />
         </picture>
+        <a href="https://github.com/Lu1sGabriel/github-readme-stats"><img align="center" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?                         username=Lu1sGabriel&amp;layout=compact&amp;theme=aura&hide_progress=true" style="max-width: 100%;"></a>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&show_icons=true&theme=aura&hide_progress=true"/>
     </div>
     <div>
