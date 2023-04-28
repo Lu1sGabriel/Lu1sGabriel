@@ -8,8 +8,7 @@
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github-readme-stats.vercel.app/api?username=Lu1sGabriel&show_icons=true" />
         </picture>
-        <a href="https://github.com/Lu1sGabriel/github-readme-stats"><img align="center" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?                         username=Lu1sGabriel&amp;layout=compact&amp;theme=aura&hide_progress=true" style="max-width: 100%;"></a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&show_icons=true&theme=aura&hide_progress=true"/>
+        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&size_weight=0.5&count_weight=0.5&theme=aura"/>
     </div>
     <div>
         <h2>Social Medias:</h2>
