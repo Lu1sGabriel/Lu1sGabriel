@@ -18,9 +18,6 @@
         <a href="https://github.com/Lu1sGabriel" target="_blank"><img
                 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
                 alt="github_icon"></a>
-        <a href="https://www.instagram.com/luiss_gaabriell/" target="_blank"><img
-                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-                alt="instagram_icon"></a>
     </div>
     <div>
         <h2>Skills:</h2>
