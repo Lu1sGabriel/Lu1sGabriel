@@ -1,11 +1,7 @@
-<div>
-        <h1>
-                <img src="https://flyclipart.com/thumb2/explosion-gif-transparent-transparent-gif-sticker-741584.png"
-                        alt="Gif" style="width: 60px;">
-                <sup> Olá, seja bem-vindo ao meu perfil do GitHub!</sup>
-        </h1>
-
-</div>
+<h1>
+        <img src="resources/gifs/pikachu.gif" alt="pikachu-gif" style="width: 60px;">
+        <sup> Olá, seja bem-vindo ao meu perfil do GitHub!</sup>
+</h1>
 
 <p>
         Sou <strong>Luis Gabriel Goés de Santana</strong>, um <strong>Desenvolvedor Full Stack</strong> apaixonado por
@@ -17,7 +13,9 @@
         <strong>PostgreSQL</strong>.
 </p>
 
-<h2>🌟 Sobre Mim</h2>
+<h2>    
+        <img src="resources/gifs/parrot.gif.gif" alt="parrot-gif" style="width: 60px;">
+        <sup>Sobre Mim</h2></sup>
 <p>
         Gosto de construir aplicações escaláveis e eficientes, aplicando <strong>Clean Code</strong> e <strong>Clean
                 Architecture</strong> para garantir
@@ -95,7 +93,7 @@
 <div>
         <h3>Flappy Bird com Rede Neural</h3>
         <div style="width: 100%; height: auto;">
-                <img src="https://media1.tenor.com/m/THG91qYPOw0AAAAC/fml-rip.gif" alt="Flappy Bird"
+                <img src="resources/gifs/flappy-bird.gif" alt="flappy-bird-gif"
                         style="width: 100%; height: auto;" />
         </div>
         <p>
@@ -117,7 +115,7 @@
 <hr>
 
 <h2>
-        <img src="resources/gifs/pikachu-hi.gif" style="width: 50px;">
+        <img src="resources/gifs/pikachu-hi.gif" alt="pikachu-hi-gif" style="width: 50px;">
         <sup>Entre em Contato</sup>
 </h2>
 
