@@ -1,4 +1,12 @@
-<h1>👋 Olá, seja bem-vindo ao meu perfil do GitHub!</h1>
+<div>
+        <h1>
+                <img src="https://flyclipart.com/thumb2/explosion-gif-transparent-transparent-gif-sticker-741584.png"
+                        alt="Gif" style="width: 60px;">
+                <sup> Olá, seja bem-vindo ao meu perfil do GitHub!</sup>
+        </h1>
+
+</div>
+
 <p>
         Sou <strong>Luis Gabriel Goés de Santana</strong>, um <strong>Desenvolvedor Full Stack</strong> apaixonado por
         tecnologia, desenvolvimento de
@@ -79,7 +87,11 @@
 
 <hr>
 
-<h2>🚀 Projetos Relevantes</h2>
+<h2>
+        <img src="https://i.gifer.com/5Mz4.gif" alt="Fire Gif" style="width: 30px;">
+        <sup>Projetos Relevantes</sup>
+</h2>
+
 <div>
         <h3>Flappy Bird com Rede Neural</h3>
         <div style="width: 100%; height: auto;">
@@ -104,7 +116,11 @@
 
 <hr>
 
-<h2>📫 Entre em Contato</h2>
+<h2>
+        <img src="resources/gifs/pikachu-hi.gif" style="width: 50px;">
+        <sup>Entre em Contato</sup>
+</h2>
+
 <p>Você pode me encontrar nas redes sociais ou entrar em contato via:</p>
 <div>
         <a href="https://www.linkedin.com/in/luisgabrielsantana/" target="_blank">
