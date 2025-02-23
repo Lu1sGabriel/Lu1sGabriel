@@ -14,7 +14,7 @@
 </p>
 
 <h2>    
-        <img src="resources/gifs/parrot.gif.gif" alt="parrot-gif" style="width: 60px;">
+        <img src="resources/gifs/parrot.gif" alt="parrot-gif" style="width: 60px;">
         <sup>Sobre Mim</h2></sup>
 <p>
         Gosto de construir aplicações escaláveis e eficientes, aplicando <strong>Clean Code</strong> e <strong>Clean
