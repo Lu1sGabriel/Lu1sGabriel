@@ -14,7 +14,7 @@
 </p>
 
 <h2>    
-        <img src="resources/gifs/parrot.gif" alt="parrot-gif" style="width: 60px;">
+        <img src="resources/gifs/parrot.gif" alt="parrot-gif" style="width: 50px;">
         <sup>Sobre Mim</sup>
 </h2>
 
@@ -76,8 +76,7 @@
 <hr>
 
 <h2>
-        <img src="resources/gifs/column-chart.gif" alt="Fire Gif" style="width: 30px;">
-                <sup>Git Statistics</sup>
+        <sup>📊 Git Statistics</sup>
 </h2>
 
 <div>
