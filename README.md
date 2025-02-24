@@ -13,7 +13,7 @@
         <strong>PostgreSQL</strong>.
 </p>
 
-<h2>    
+<h2>
         <img src="resources/gifs/parrot.gif" alt="parrot-gif" style="width: 50px;">
         <sup>Sobre Mim</sup>
 </h2>
@@ -24,8 +24,6 @@
         um código de qualidade. Meu foco está no desenvolvimento de sistemas modernos e na criação de soluções
         inovadoras.
 </p>
-
-<hr>
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
 
@@ -73,8 +71,6 @@
                 alt="Clean Code" />
 </div>
 
-<hr>
-
 <h2>
         <sup>📊 Git Statistics</sup>
 </h2>
@@ -87,8 +83,6 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1sGabriel&layout=compact&theme=aura"
                 alt="Linguagens mais utilizadas" />
 </div>
-
-<hr>
 
 <h2>
         <img src="https://i.gifer.com/5Mz4.gif" alt="Fire Gif" style="width: 30px;">
@@ -116,8 +110,6 @@
         <p>Este projeto segue os princípios de <strong>Clean Code</strong> e utiliza <strong>Programação Orientada a
                         Objetos (POO)</strong> para garantir uma estrutura de código limpa e escalável.</p>
 </div>
-
-<hr>
 
 <h2>
         <img src="resources/gifs/pikachu-hi.gif" alt="pikachu-hi-gif" style="width: 50px;">
