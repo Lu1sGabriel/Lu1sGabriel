@@ -15,7 +15,9 @@
 
 <h2>    
         <img src="resources/gifs/parrot.gif" alt="parrot-gif" style="width: 60px;">
-        <sup>Sobre Mim</h2></sup>
+        <sup>Sobre Mim</sup>
+</h2>
+
 <p>
         Gosto de construir aplicações escaláveis e eficientes, aplicando <strong>Clean Code</strong> e <strong>Clean
                 Architecture</strong> para garantir
@@ -73,7 +75,11 @@
 
 <hr>
 
-<h2>📊 Estatísticas do GitHub</h2>
+<h2>
+        <img src="resources/gifs/column-chart.gif" alt="Fire Gif" style="width: 30px;">
+                <sup>Git Statistics</sup>
+</h2>
+
 <div>
         <img height="180em"
                 src="https://github-readme-stats.vercel.app/api?username=Lu1sGabriel&show_icons=true&theme=aura"
