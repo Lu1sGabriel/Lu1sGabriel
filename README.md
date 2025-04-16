@@ -1,6 +1,6 @@
 <h1>
         <img src="resources/gifs/pikachu.gif" alt="pikachu-gif" style="width: 60px;">
-        <sup> Olá, seja bem-vindo ao meu perfil do GitHub!</sup>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=535&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" /></a>
 </h1>
 
 <p>
@@ -31,11 +31,10 @@
 <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+                alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
                 alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-                alt="TypeScript" />
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
                 alt="Angular" />
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -50,6 +49,10 @@
                 alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
                 alt="Python" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" 
+                alt="Node.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+                alt="TypeScript" />
 </div>
 
 <h3>Banco de Dados</h3>
