@@ -80,10 +80,10 @@
 
 <div>
         <img height="180em"
-                src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lu1sGabriel&show_icons=true&theme=aura&v=1"
+                src="https://github-readme-stats-tau-nine-93.vercel.app/api?username=Lu1sGabriel&show_icons=true&theme=aura"
                 alt="Estatísticas do GitHub" />
         <img height="180em"
-                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lu1sGabriel&layout=compact&theme=aura&langs_count=3&v=1"
+                src="https://github-readme-stats-tau-nine-93.vercel.app/api/top-langs/?username=Lu1sGabriel&layout=compact&theme=aura&langs_count=3"
                 alt="Linguagens mais utilizadas" />
 </div>
 
