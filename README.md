@@ -78,7 +78,14 @@
         <sup>📊 Git Statistics</sup>
 </h2>
 
-![Top Langs](https://vercel.app)
+<div>
+        <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lu1sGabriel&show_icons=true&theme=aura&v=1"
+                alt="Estatísticas do GitHub" />
+        <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lu1sGabriel&layout=compact&theme=aura&langs_count=3&v=1"
+                alt="Linguagens mais utilizadas" />
+</div>
 
 <h2>
         <img src="https://i.gifer.com/5Mz4.gif" alt="Fire Gif" style="width: 30px;">
