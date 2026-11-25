@@ -1,6 +1,15 @@
 <!-- ============================== HEADER ============================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=220&section=header&text=Luis%20Gabriel%20Go%C3%A9s&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&descSize=20&descAlignY=56" alt="Luis Gabriel Goés — Full Stack Developer" width="100%" />
 
+<!-- LANG-SWITCHER -->
+<p align="center">
+  <a href="https://github.com/Lu1sGabriel"><img src="https://img.shields.io/badge/English-bb9af7?style=for-the-badge" alt="English" /></a>
+  <a href="https://github.com/Lu1sGabriel/Lu1sGabriel/blob/main/README.pt-BR.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-1a1b27?style=for-the-badge" alt="Português" /></a>
+  <a href="https://github.com/Lu1sGabriel/Lu1sGabriel/blob/main/README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-1a1b27?style=for-the-badge" alt="Español" /></a>
+  <a href="https://github.com/Lu1sGabriel/Lu1sGabriel/blob/main/README.de.md"><img src="https://img.shields.io/badge/Deutsch-1a1b27?style=for-the-badge" alt="Deutsch" /></a>
+</p>
+<!-- /LANG-SWITCHER -->
+
 <p align="center">
   <a href="https://luisgoes.com.br">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=BB9AF7&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Luis+Gabriel+%F0%9F%91%8B;Full+Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+Rust;I+build+fast%2C+clean+and+scalable+software;Check+out+luisgoes.com.br+%F0%9F%9A%80" alt="Typing animation: Hi there! I'm Luis Gabriel — Full Stack Developer" />
