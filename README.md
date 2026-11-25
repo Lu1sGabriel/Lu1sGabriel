@@ -23,7 +23,7 @@
 
 <img align="right" src="resources/gifs/parrot.gif" alt="Party parrot" width="90">
 
-I'm **Luis Gabriel Goés de Santana**, a **Full Stack Developer** from Salvador, Brazil 🇧🇷, passionate about technology, software development and artificial intelligence. I'm studying **Software Engineering** at **Universidade Católica do Salvador**.
+I'm **Luis Gabriel Goés de Santana**, a **Full Stack Developer** from Salvador, Brazil 🇧🇷, passionate about technology, software development and artificial intelligence. I hold a degree in **Software Engineering** from **Universidade Católica do Salvador**, and I keep studying to broaden my skill set.
 
 - 🏗️ I build scalable, efficient applications guided by **Clean Code** and **Clean Architecture**
 - ☕ Day to day: **Java / Spring Boot** on the back end and **Angular / TypeScript** on the front end
